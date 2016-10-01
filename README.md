@@ -3,7 +3,7 @@
 This ransom is created only for Educational Purposes.
 
 
-<h1>FAQ:</h1>
+<h2>FAQ:</h2>
 
 Q: What is D.A.E?
 
@@ -12,7 +12,7 @@ A: Delete After Execution.
 
 
 
-Contacts:
+<h2>Contacts:</h2>
 
 
 My Twitter: @DeltaPentester
