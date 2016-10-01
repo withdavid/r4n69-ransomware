@@ -3,7 +3,7 @@
 This ransom is created only for Educational Purposes.
 
 
-FAQ:
+<h1>FAQ:</h1>
 
 Q: What is D.A.E?
 
