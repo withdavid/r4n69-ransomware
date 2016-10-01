@@ -172,10 +172,6 @@ RRRRRRRR     RRRRRRR        4444444444NNNNNNNN         NNNNNNN     666666666  99
 		color: white;
 		font: 12pt consolas;
 	}	
-	html{
-		overflow-y:hidden;
-		overflow-x:hidden;
-	}
         </style>
 
 	
