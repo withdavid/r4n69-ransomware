@@ -5,7 +5,7 @@ ini_set('memory_limit', '-1');
 mb_internal_encoding("UTF-8");
 class meow
 /*
-Created by DeltaPentester                                                                                                                                                                                                                                                                          
+Created by DavidM                                                                                                                                                                                                                                                                          
 */
 {
     public function generate_enc($leak){
