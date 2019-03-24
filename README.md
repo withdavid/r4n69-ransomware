@@ -16,5 +16,3 @@ A: Delete After Execution.
 
 
 My Twitter: @DeltaPentester
-
-My Mail:    DeltaHacker@protonmail.com
