@@ -2,7 +2,7 @@
                                                                                               
 This ransom was developed only for educational purposes.
 
-Any unlawful or illegal act done through this tool is your entire responsibility.
+Any illegal act done through this tool is your entire responsibility.
 
 <h2>FAQ:</h2>
 
