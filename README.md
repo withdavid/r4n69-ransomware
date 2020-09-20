@@ -12,8 +12,9 @@ Q: What is D.A.E?
 A: Delete After Execution.
 
 
+<h2>Buy me a coffe</h2>
+BTC wallet: 19zbdRCGToV2LPKH8QgxbN5SkaZumUNWou
+
 
 <h2>Contacts:</h2>
-
-
 My Twitter: @DeltaPentester
