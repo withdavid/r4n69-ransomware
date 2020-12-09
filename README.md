@@ -1,4 +1,4 @@
-# r4n69-ransomware
+# r4n69-php-ransomware
                                                                                               
 >This project was developed only for educational purposes.<br>
 >Usage of this project for attacking targets without prior mutual consent is illegal.<br>
